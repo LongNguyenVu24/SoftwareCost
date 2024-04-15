@@ -3,7 +3,7 @@ import java.awt.Dimension;
 import java.awt.Point;
 import java.awt.Toolkit;
 import javax.swing.JOptionPane;
-import sun.rmi.runtime.Log;
+import java.util.logging.Logger;
 
 /*
  * To change this license header, choose License Headers in Project Properties.
